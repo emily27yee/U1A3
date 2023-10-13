@@ -13,6 +13,9 @@ public class ArrayProgram extends javax.swing.JFrame {
     /**
      * Creates new form ArrayProgram
      */
+    
+    
+    //this is a comment
     public ArrayProgram() {
         initComponents();
         
